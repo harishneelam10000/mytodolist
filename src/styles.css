@@ -13,7 +13,7 @@
   display: none;
 }
 body {
-  background-image: url("backgroundimages/bg.png");
+  background-image: url('backgroundimages/bg.png');
   background-size: cover; /* or contain */
   background-repeat: no-repeat;
   background-position: center center;
